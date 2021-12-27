@@ -20,4 +20,10 @@ Anggota :
 - netbeans editor
 - JDK 1.8
 
+#Class Diagram
+![WhatsApp Image 2021-12-27 at 15 38 37](https://user-images.githubusercontent.com/84893108/147453257-d404d0f2-12ec-4139-87eb-32849ed00166.jpeg)
+
+#ER Diagram
+![WhatsApp Image 2021-12-27 at 15 39 01](https://user-images.githubusercontent.com/84893108/147453329-67cd9688-62dd-4d91-a899-5931249172f4.jpeg)
+
 
