@@ -229,17 +229,4 @@ public class DataModel {
         stmtRek.execute();
         
     }
-    
-    
-//    public void Deposit(double x) throws SQLException{
-//    String insertHolder = "INSERT INTO rekening (rekening, noRekening, saldo)"
-//            + " VALUES (?,?,?)";
-//
-//    PreparedStatement stmtHolder = conn.prepareStatement(insertHolder);
-//    stmtHolder.setInt(1, rekening);
-//    stmtHolder.setInt(2, acc.getNoRekening());
-//    stmtHolder.setDouble(3, acc.getSaldo());
-//    stmtHolder.execute();
-//        
-//    }
 }
