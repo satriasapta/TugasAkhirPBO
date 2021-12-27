@@ -21,9 +21,12 @@ Anggota :
 - JDK 1.8
 
 # Class Diagram
-![WhatsApp Image 2021-12-27 at 15 38 37](https://user-images.githubusercontent.com/84893108/147453257-d404d0f2-12ec-4139-87eb-32849ed00166.jpeg)
+![Class Diagram](https://user-images.githubusercontent.com/84893108/147456083-c6ccd808-42fa-4fc7-8217-3dd981327fa1.jpeg)
 
 # ER Diagram
-![WhatsApp Image 2021-12-27 at 15 39 01](https://user-images.githubusercontent.com/84893108/147453329-67cd9688-62dd-4d91-a899-5931249172f4.jpeg)
+![ER Diagram](https://user-images.githubusercontent.com/84893108/147456109-8abe965b-7429-46f3-b08f-48ff9fc60d92.jpeg)
+
+# Design Class Diagram for JavaFX dan Database
+![Design Class Diagram for JavaFX dan Database](https://user-images.githubusercontent.com/84893108/147456158-48b3afe8-00b7-4308-8438-f806d5ddb601.jpeg)
 
 
