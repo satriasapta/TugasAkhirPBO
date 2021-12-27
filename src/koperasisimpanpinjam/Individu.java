@@ -12,10 +12,7 @@ import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleLongProperty;
 import javafx.beans.property.StringProperty;
 
-/**
- *
- * @author YOGIE
- */
+
 public class Individu extends Nasabah{
     private LongProperty nik;
     private LongProperty npwp;
